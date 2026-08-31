@@ -23,7 +23,7 @@
 
 ### 🔹 CURRENT STATUS AND ASSETS
 * **Infrastructure:** A complete development environment for low-level programming is fully set up on Arch Linux. A Wine-based stack for music production (FL Studio) is operational, and the foundation for 3D modeling (Blender) has been laid.
-* **Codebase:** The official studio library is hosted at [://github.com](https://github.com/Stdio219/Library). This will serve as a custom core library for all future projects.
+* **Codebase:** The official studio library is hosted at [github.com](https://github.com/Stdio219/Library). This will serve as a custom core library for all future projects.
 
 ---
 
