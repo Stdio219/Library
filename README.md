@@ -8,7 +8,7 @@
 * **Status:** Early-stage Startup / R&D (Research and Development) Phase
 * **Founder:** Mikhail (Misha)
 * **Founder's Role:** Full-stack Solo Developer (Ideas, concepts, architecture, C++ programming, audio design, testing)
-* **Core Tech Stack:** C / C++, Arch Linux, OpenGL, Kate / VS Code, Wine (FL Studio), Blender
+* **Core Tech Stack:** C / C++, Arch Linux, OpenGL/Vulkan, Kate / VS Code, Wine (FL Studio), Blender
 * **Official Studio Channel:** [Telegram Channel Stdio219](https://t.me/Stdio219) 📢
 * **Main Repository:** [GitHub Library Repository](https://github.com/Stdio219/Library) 📦
 
