@@ -8,7 +8,7 @@
 * **Статус:** Ранний стартап / Стадия R&D (Исследования и разработка)
 * **Основатель:** Михаил (Misha)
 * **Роль основателя:** Full-stack Solo Developer (Идеи, концепты, архитектура, C++ программирование, аудио-дизайн, тестирование)
-* **Главный стек технологий:** C / C++, Arch Linux, OpenGL, Kate / VS Code, Wine (FL Studio), Blender
+* **Главный стек технологий:** C / C++, Arch Linux, OpenGL/Vulkan, Kate / VS Code, Wine (FL Studio), Blender
 * **Официальный ресурс студии:** [Telegram-канал Stdio219](https://t.me/Stdio219) 📢
 * **Главный репозиторий:** [GitHub Library Repository](https://github.com/Stdio219/Library) 📦
 
