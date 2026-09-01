@@ -1,0 +1,130 @@
+***  Installation Started 07/26/2026 14:07  ***
+Title: Valve Hammer Editor Installation
+Source: D:\Valve\GoldSource\SDK\Hammer Editor\hammer_v34.exe | 10-03-2002 | 11:53:12 | 2142766
+Made Dir: D:\Valve\Hammer
+File Copy: D:\Valve\Hammer\UNWISE.EXE | 09-28-2001 | 17:00:28 | | 164864 | acd7a536
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Valve Hammer Editor
+RegDB Val: Valve Hammer Editor
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Valve Hammer Editor
+RegDB Val: D:\Valve\Hammer\UNWISE.EXE D:\Valve\Hammer\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+Made Dir: D:\Valve\Hammer\fgd
+Made Dir: D:\Valve\Hammer\fgd\team fortress classic
+File Copy: D:\Valve\Hammer\fgd\team fortress classic\tf15f.fgd | 03-31-2002 | 22:58:46 | | 73939 | cfdfee41
+Made Dir: D:\Valve\Hammer\sprites
+Made Dir: D:\Valve\Hammer\sprites\DoD
+File Copy: D:\Valve\Hammer\sprites\DoD\vssver.scc | 03-31-2002 | 18:30:34 | | 832 | 3d37c0b6
+File Copy: D:\Valve\Hammer\sprites\DoD\VIP.spr | 03-31-2002 | 18:30:34 | | 29502 | db3b8e08
+File Copy: D:\Valve\Hammer\sprites\DoD\TriggerRelay.spr | 03-31-2002 | 18:30:34 | | 17214 | 173356e0
+File Copy: D:\Valve\Hammer\sprites\DoD\TriggerChangeTarget.spr | 03-31-2002 | 18:30:34 | | 17214 | f144267e
+File Copy: D:\Valve\Hammer\sprites\DoD\TriggerCamera.spr | 03-31-2002 | 18:30:34 | | 7870 | 83b980c
+File Copy: D:\Valve\Hammer\sprites\DoD\TriggerAuto.spr | 03-31-2002 | 18:30:34 | | 17214 | fdb95fa7
+File Copy: D:\Valve\Hammer\sprites\DoD\Terrorist.spr | 03-31-2002 | 18:30:34 | | 29502 | c109ee86
+File Copy: D:\Valve\Hammer\sprites\DoD\SecondaryScore.spr | 03-31-2002 | 18:30:34 | | 17214 | 1fd80624
+File Copy: D:\Valve\Hammer\sprites\DoD\RoundTimer.spr | 03-31-2002 | 18:30:34 | | 31806 | 6cdb835f
+Made Dir: D:\Valve\Hammer\sprites\DoD\raw
+File Copy: D:\Valve\Hammer\sprites\DoD\raw\vssver.scc | 03-31-2002 | 18:30:36 | | 256 | a955d6d4
+File Copy: D:\Valve\Hammer\sprites\DoD\raw\SecondaryScoring.bmp | 03-31-2002 | 18:30:36 | | 17462 | be58a075
+File Copy: D:\Valve\Hammer\sprites\DoD\raw\RoundTimer.bmp | 03-31-2002 | 18:30:36 | | 32054 | b7646ca9
+File Copy: D:\Valve\Hammer\sprites\DoD\raw\PrimaryScoring.bmp | 03-31-2002 | 18:30:36 | | 17462 | d0cdacd8
+File Copy: D:\Valve\Hammer\sprites\DoD\raw\PointRelay.bmp | 03-31-2002 | 18:30:36 | | 32054 | 84875db0
+File Copy: D:\Valve\Hammer\sprites\DoD\raw\Path_Corner.bmp | 03-31-2002 | 18:30:36 | | 17462 | bf80b2e9
+File Copy: D:\Valve\Hammer\sprites\DoD\raw\ObserverStart.bmp | 03-31-2002 | 18:30:36 | | 29750 | 68c46f30
+File Copy: D:\Valve\Hammer\sprites\DoD\raw\Enigma.bmp | 03-31-2002 | 18:30:36 | | 32054 | 174fd04a
+File Copy: D:\Valve\Hammer\sprites\DoD\raw\ControlPointMaster.bmp | 03-31-2002 | 18:30:36 | | 17462 | 2c662561
+File Copy: D:\Valve\Hammer\sprites\DoD\raw\ControlFlag.BMP | 03-31-2002 | 18:30:36 | | 17974 | 5ded330f
+File Copy: D:\Valve\Hammer\sprites\DoD\raw\AxisTeamStart.bmp | 03-31-2002 | 18:30:36 | | 29750 | 6846165f
+File Copy: D:\Valve\Hammer\sprites\DoD\raw\AxisInitialStart.bmp | 03-31-2002 | 18:30:34 | | 29750 | 7fe6a116
+File Copy: D:\Valve\Hammer\sprites\DoD\raw\Announcement.BMP | 03-31-2002 | 18:30:34 | | 10294 | d0e390d8
+File Copy: D:\Valve\Hammer\sprites\DoD\raw\AlliesTeamStart.bmp | 03-31-2002 | 18:30:34 | | 29750 | b0359e3f
+File Copy: D:\Valve\Hammer\sprites\DoD\raw\AlliesInitialStart.bmp | 03-31-2002 | 18:30:34 | | 29750 | c42bf889
+File Copy: D:\Valve\Hammer\sprites\DoD\PrimaryScore.spr | 03-31-2002 | 18:30:34 | | 17214 | 7ac94cbe
+File Copy: D:\Valve\Hammer\sprites\DoD\AlliesInitialStart.spr | 03-31-2002 | 18:30:34 | | 29502 | 6a423f20
+File Copy: D:\Valve\Hammer\sprites\DoD\AlliesTeamStart.spr | 03-31-2002 | 18:30:34 | | 29502 | 238bf67a
+File Copy: D:\Valve\Hammer\sprites\DoD\AmbientGeneric.spr | 03-31-2002 | 18:30:34 | | 10046 | 6383276b
+File Copy: D:\Valve\Hammer\sprites\DoD\Announcement.spr | 03-31-2002 | 18:30:34 | | 10046 | 444fe42b
+File Copy: D:\Valve\Hammer\sprites\DoD\Armoury.spr | 03-31-2002 | 18:30:34 | | 17214 | e7a98ebd
+File Copy: D:\Valve\Hammer\sprites\DoD\AxisInitialStart.spr | 03-31-2002 | 18:30:34 | | 29502 | c54c9cf2
+File Copy: D:\Valve\Hammer\sprites\DoD\AxisTeamStart.spr | 03-31-2002 | 18:30:34 | | 29502 | b58aea20
+File Copy: D:\Valve\Hammer\sprites\DoD\BombTarget.spr | 03-31-2002 | 18:30:34 | | 17214 | 7739f118
+File Copy: D:\Valve\Hammer\sprites\DoD\ControlPoint.spr | 03-31-2002 | 18:30:34 | | 17726 | 74d5157a
+File Copy: D:\Valve\Hammer\sprites\DoD\ControlPointMaster.spr | 03-31-2002 | 18:30:34 | | 17214 | 23e3fc76
+File Copy: D:\Valve\Hammer\sprites\DoD\CT.spr | 03-31-2002 | 18:30:34 | | 29502 | d7467e80
+File Copy: D:\Valve\Hammer\sprites\DoD\CyclerSprite.spr | 03-31-2002 | 18:30:34 | | 17214 | 6b4754e4
+File Copy: D:\Valve\Hammer\sprites\DoD\Enigma.spr | 03-31-2002 | 18:30:34 | | 31806 | a044814f
+File Copy: D:\Valve\Hammer\sprites\DoD\EnvGlobal.spr | 03-31-2002 | 18:30:34 | | 17214 | 31d6b2d5
+File Copy: D:\Valve\Hammer\sprites\DoD\EnvSound.spr | 03-31-2002 | 18:30:34 | | 10046 | d3d88c92
+File Copy: D:\Valve\Hammer\sprites\DoD\EnvSpark.spr | 03-31-2002 | 18:30:34 | | 17214 | 6d75f79b
+File Copy: D:\Valve\Hammer\sprites\DoD\EnvTarget.spr | 03-31-2002 | 18:30:34 | | 4926 | 78beee40
+File Copy: D:\Valve\Hammer\sprites\DoD\Flag.spr | 03-31-2002 | 18:30:34 | | 7998 | 45844dc4
+File Copy: D:\Valve\Hammer\sprites\DoD\GameCounter.spr | 03-31-2002 | 18:30:34 | | 17214 | 33606294
+File Copy: D:\Valve\Hammer\sprites\DoD\GameCounterSet.spr | 03-31-2002 | 18:30:34 | | 17214 | f8dde42e
+File Copy: D:\Valve\Hammer\sprites\DoD\GameEnd.spr | 03-31-2002 | 18:30:34 | | 17214 | 55b6976e
+File Copy: D:\Valve\Hammer\sprites\DoD\GamePlayerEquip.spr | 03-31-2002 | 18:30:34 | | 17214 | ff490e45
+File Copy: D:\Valve\Hammer\sprites\DoD\GamePlayerHurt.spr | 03-31-2002 | 18:30:34 | | 17214 | 6c13c94
+File Copy: D:\Valve\Hammer\sprites\DoD\GamePlayerTeam.spr | 03-31-2002 | 18:30:34 | | 17214 | 781ea211
+File Copy: D:\Valve\Hammer\sprites\DoD\GameScore.spr | 03-31-2002 | 18:30:34 | | 17214 | b6d90d10
+File Copy: D:\Valve\Hammer\sprites\DoD\GameTeamMaster.spr | 03-31-2002 | 18:30:34 | | 17214 | 7f796703
+File Copy: D:\Valve\Hammer\sprites\DoD\GameTeamSet.spr | 03-31-2002 | 18:30:34 | | 17214 | d8bdcfbe
+File Copy: D:\Valve\Hammer\sprites\DoD\GameText.spr | 03-31-2002 | 18:30:34 | | 17214 | 1c69c1b5
+File Copy: D:\Valve\Hammer\sprites\DoD\GameZonePlayer.spr | 03-31-2002 | 18:30:34 | | 17214 | 6ec6bbb
+File Copy: D:\Valve\Hammer\sprites\DoD\Hostage.spr | 03-31-2002 | 18:30:34 | | 25406 | ec40f7b6
+File Copy: D:\Valve\Hammer\sprites\DoD\HostageRescue.spr | 03-31-2002 | 18:30:34 | | 41790 | 9ca9512c
+File Copy: D:\Valve\Hammer\sprites\DoD\InfoCamera.spr | 03-31-2002 | 18:30:34 | | 7870 | 83b980c
+File Copy: D:\Valve\Hammer\sprites\DoD\LightEnvironment.spr | 03-31-2002 | 18:30:34 | | 4926 | 2b1c1f3d
+File Copy: D:\Valve\Hammer\sprites\DoD\LightSpot.spr | 03-31-2002 | 18:30:34 | | 17214 | 7a88ad6b
+File Copy: D:\Valve\Hammer\sprites\DoD\MapParams.spr | 03-31-2002 | 18:30:34 | | 17214 | 79d4863d
+File Copy: D:\Valve\Hammer\sprites\DoD\MultiSource.spr | 03-31-2002 | 18:30:34 | | 17214 | 7514c010
+File Copy: D:\Valve\Hammer\sprites\DoD\multi_manager.spr | 03-31-2002 | 18:30:34 | | 17214 | fb23d2e7
+File Copy: D:\Valve\Hammer\sprites\DoD\ObserverStart.spr | 03-31-2002 | 18:30:34 | | 29502 | 3d471b0c
+File Copy: D:\Valve\Hammer\sprites\DoD\PathCorner.spr | 03-31-2002 | 18:30:34 | | 17214 | 834f88bc
+File Copy: D:\Valve\Hammer\sprites\DoD\PlayerWeaponStrip.spr | 03-31-2002 | 18:30:34 | | 17214 | 2e05636b
+File Copy: D:\Valve\Hammer\sprites\DoD\PointRelay.spr | 03-31-2002 | 18:30:34 | | 31806 | fb9888ab
+Made Dir: D:\Valve\Hammer\tools
+File Copy: D:\Valve\Hammer\tools\lights.rad | 05-30-2000 | 17:56:28 | | 35 | 2749d34f
+File Copy: D:\Valve\Hammer\CmdSeq.wc | 06-01-2000 | 12:25:00 | | 26295 | 89037337
+File Copy: D:\Valve\Hammer\hammer.chm | 03-31-2002 | 20:19:04 | | 714666 | 609082b
+File Copy: D:\Valve\Hammer\hammer.exe | 03-31-2002 | 20:59:14 | 0.2.1.0 | 1327104 | 62db08d2
+File Copy: D:\Valve\Hammer\hammer.ico | 12-15-1999 | 15:50:08 | | 3310 | 335b9338
+File Copy: D:\Valve\Hammer\Readme.txt | 03-31-2002 | 20:23:58 | | 1301 | c53199f1
+File Copy: D:\Valve\Hammer\valve.inf | 03-28-2002 | 17:02:30 | | 111 | 3da60564
+Made Dir: D:\Valve\Hammer\fgd\counter-strike
+File Copy: D:\Valve\Hammer\fgd\counter-strike\halflife-cs.fgd | 03-08-2001 | 11:06:00 | | 37819 | a4e6426f
+Made Dir: D:\Valve\Hammer\fgd\day of defeat
+File Copy: D:\Valve\Hammer\fgd\day of defeat\dod2_readme.txt | 12-11-2001 | 09:55:04 | | 360 | ad037736
+File Copy: D:\Valve\Hammer\fgd\day of defeat\halflife-DOD2-expert.fgd | 01-16-2002 | 18:11:12 | | 76536 | cf762531
+Made Dir: D:\Valve\Hammer\fgd\half-life
+File Copy: D:\Valve\Hammer\fgd\half-life\halflife.fgd | 03-31-2002 | 22:58:40 | | 62358 | 6c21079a
+Made Dir: D:\Valve\Hammer\prefabs
+File Copy: D:\Valve\Hammer\prefabs\computers.ol | 05-30-2000 | 17:56:46 | | 212195 | b0cd2e3e
+File Copy: D:\Valve\Hammer\prefabs\Crates.ol | 05-30-2000 | 17:56:46 | | 129330 | eb6d559f
+File Copy: D:\Valve\Hammer\prefabs\old stuff.ol | 05-30-2000 | 17:56:46 | | 46384 | 681ee82c
+File Copy: D:\Valve\Hammer\prefabs\random objects.ol | 05-30-2000 | 17:56:46 | | 411373 | 96b269d8
+File Copy: D:\Valve\Hammer\prefabs\Usable Objects.ol | 05-30-2000 | 17:56:46 | | 206112 | d7ef900d
+File Copy: D:\Valve\Hammer\sprites\speaker.spr | 05-25-2000 | 19:56:12 | | 4926 | 272bdf56
+File Copy: D:\Valve\Hammer\sprites\lightbulb.spr | 05-25-2000 | 14:53:40 | | 4926 | 72f28b7d
+File Copy: D:\Valve\Hammer\tools\vis.exe | 04-15-2000 | 13:29:24 | | 73728 | 4216e28b
+File Copy: D:\Valve\Hammer\tools\valve.rad | 05-30-2000 | 17:56:28 | | 1438 | f0d896d0
+File Copy: D:\Valve\Hammer\tools\qrad.exe | 05-25-2000 | 19:55:48 | | 188416 | 54c1c01
+File Copy: D:\Valve\Hammer\tools\qcsg.exe | 04-15-2000 | 13:29:24 | | 102400 | eb626ff5
+File Copy: D:\Valve\Hammer\tools\qbsp2.exe | 04-15-2000 | 13:29:24 | | 106496 | 30b12a90
+Made Dir: D:\Valve\Hammer\maps
+Made Dir: C:\Users\Mikhail\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Valve Hammer
+Shell Link: C:\Users\Mikhail\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Valve Hammer\Valve Hammer Editor.lnk
+Link Info: D:\Valve\Hammer\hammer.exe | D:\Valve\Hammer | D:\Valve\Hammer\hammer.ico | 0 | 1 | 0 | 
+Shell Link: C:\Users\Mikhail\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Valve Hammer\Valve Hammer Editor Help.lnk
+Link Info: D:\Valve\Hammer\hammer.chm | D:\Valve\Hammer |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\Mikhail\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Valve Hammer\Uninstall.lnk
+Link Info: D:\Valve\Hammer\UNWISE.EXE | D:\Valve\Hammer |  | 0 | 1 | 0 | 
+RegDB Key: Software\Valve\Editor
+RegDB Val: D:\Valve\Hammer
+RegDB Name: InstallPath
+RegDB Root: 2
+Shell Link: C:\Users\Mikhail\Desktop\Valve Hammer Editor.lnk
+Link Info: D:\Valve\Hammer\UNWISE.EXE | D:\Valve\Hammer | D:\Valve\Hammer\hammer.ico | 0 | 1 | 0 | /W1 "D:\Valve\Hammer\INSTALL.LOG"
+Shell Link: C:\Users\Mikhail\Desktop\Valve Hammer Editor Help.lnk
+Link Info: D:\Valve\Hammer\hammer.chm | D:\Valve\Hammer |  | 0 | 1 | 0 | 
+User Rights: Admin
